@@ -6,6 +6,7 @@ This is what the final printout would look like.
 ![image](https://github.com/RobertHumolli/Planet-Locations/assets/120424157/f518e622-5f04-4c70-97ff-066ecc4145b5)
 
 A few problems that I ran into while making this program.
+
 Problem: initially the circle never printed out, where it only showed the initial y and x locations.
 
 Solution: I used self.ylocation and self.xlocation (lines 48 & 49) which essentially loops the values and enables me to generate the circle that I wasn’t able to generate previously.
